@@ -1,6 +1,6 @@
 <table>
   <hr>
-  <div align="center" style="display: inline_block">
+  <div align="left" style="display: inline_block">
  👨🏽‍💻 - Atualmente sou estagiário. Suporte Tecnologia da Informação <br>
  💻 - Internet Computer Technician (3/3) - Serviço Nacional de Aprendizagem Industrial, Senai Alagoas
 
