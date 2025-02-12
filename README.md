@@ -29,7 +29,5 @@
   </div>
     <br>
   <hr>
-  <div align="center" style="display: inline_block">
-  <a href="https://www.instagram.com/caioarchive/" target="_blank"><img align="center" src="https://img.shields.io/badge/-Caioarhive-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-   </div>
+
 </div>
