@@ -8,7 +8,6 @@
   <br>
   <a href="https://github.com/caioarchive">
      
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=caioarchive&show_icons=true&theme=dark&include_all_commits=true&count_private=false"/>
 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caioarchive&layout=compact&langs_count=6&theme=dark"/>
     <br>
