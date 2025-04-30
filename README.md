@@ -8,7 +8,7 @@
   <br>
 <h3>Stats GitHub</h3>
 
-![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=caioarchive&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&border_radius=3&border_color=36123c&icon_color=FF00F6&theme=dark)
+
 [![Most Used Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=caioarchive&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=FF00F6&hide=html,css&border_radius=3&border_color=561760&count_private=true&theme=dark)](https://github.com/caioarchive/github-readme-stats)
 <br>
  
