@@ -1,7 +1,7 @@
 <table>
   <hr>
   <div align="left" style="display: inline_block">
- 👨🏽‍💻 - Atualmente sou estagiário. Suporte Tecnologia da Informação <br>
+ 👨🏽‍💻 - Atualmente sou xerarola e estagiário. Suporte Tecnologia da Informação <br>
  💻 - Internet Computer Technician (3/3) - Serviço Nacional de Aprendizagem Industrial, Senai Alagoas
 
   </div>
@@ -35,7 +35,5 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/caioarchive/caioarchive/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/caioarchive/caioarchive/output/github-contribution-grid-snake.svg">
 </picture>
-
-
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-<p>xerarola</p>
+<hr>
+<p>xeirorola</p>
