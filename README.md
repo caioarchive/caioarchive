@@ -1,7 +1,7 @@
 <table>
   <hr>
   <div align="left" style="display: inline_block">
- 👨🏽‍💻 - Atualmente sou xerarola e estagiario. Suporte Tecnologia da Informação <br>
+ 👨🏽‍💻 - Atualmente sou estagiario. Suporte Tecnologia da Informação <br>
  💻 - Internet Computer Technician (3/3) - Serviço Nacional de Aprendizagem Industrial, Senai Alagoas
 
   </div>
