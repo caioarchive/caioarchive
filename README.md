@@ -56,7 +56,7 @@
 
 ---
 
-## 📈 Minhas Contribuições
+## 🌐My Contributions
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=caioarchive&theme=dracula&hide_border=true" />
@@ -65,7 +65,7 @@
 
 ---
 
-## 🌐My Contributions
+## Links;
 
 <p align="center">
   <a href="https://www.linkedin.com/in/seu-usuario" target="_blank">
