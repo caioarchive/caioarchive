@@ -9,7 +9,7 @@
 
 ---
 
-## 🧑‍🎓 About
+## 🧑‍🎓 About Me
 
 - 🎓 Internet Computer Technician (3/3) - <strong>Serviço Nacional de Aprendizagem Industrial, Senai Alagoas</strong>
 - 💻 Estagiário de T.I no <strong>Comercial Mascarenhas</strong> - Foco em inovação e soluções
