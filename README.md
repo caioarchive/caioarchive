@@ -12,7 +12,7 @@
 ## 🧑‍🎓 Sobre mim
 
 - 🎓 Internet Computer Technician (3/3) - <strong>Serviço Nacional de Aprendizagem Industrial, Senai Alagoas</strong>
-- 💻 Estagiário de T.I no <strong>Comercial Mascarenhas</strong> - foco em inovação e soluções
+- 💻 Estagiário de T.I no <strong>Comercial Mascarenhas</strong> - Foco em inovação e soluções
 - 🔧 Experiência com tecnologias como <strong>JavaScript, React, Node.js, MySQL</strong>
 - 🌟 Motivado a criar soluções eficientes no mundo digital, sempre com foco no aprendizado contínuo.
 
@@ -22,7 +22,8 @@
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=caioarchive&show_icons=true&hide_title=true&theme=dracula&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caioarchive&layout=compact&theme=dracula&hide_border=true"/>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caioarchive&layout=compact&theme=dracula&hide_border=true&hide=html,css,typescript,objective-j"/>
+
 </div>
 
 ---
@@ -54,6 +55,14 @@
 
 ---
 
+## 📈 Minhas Contribuições
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=caioarchive&theme=dracula&hide_border=true" />
+</div>
+
+---
+
 ## 🌐 Onde me encontrar
 
 <p align="center">
@@ -69,12 +78,3 @@
 </p>
 
 ---
-
-## 📈 Minhas Contribuições
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=caioarchive&theme=dracula&hide_border=true" />
-</div>
-
----
-
