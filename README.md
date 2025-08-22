@@ -9,7 +9,7 @@
 
 ---
 
-## 🧑‍🎓 Sobre mim
+## 🧑‍🎓 About
 
 - 🎓 Internet Computer Technician (3/3) - <strong>Serviço Nacional de Aprendizagem Industrial, Senai Alagoas</strong>
 - 💻 Estagiário de T.I no <strong>Comercial Mascarenhas</strong> - Foco em inovação e soluções
@@ -18,7 +18,7 @@
 
 ---
 
-## 📊 Estatísticas do GitHub
+## 📊 GitHub Statistics
 
 
 <div align="center">
@@ -28,7 +28,7 @@
 </div>
 ---
 
-## 🛠️ Tecnologias e Ferramentas que Uso
+## 🛠️ Technologies and Tools I Use
 
 ### 🖥️ **Desenvolvimento Front-End**
 <p align="center">
@@ -65,7 +65,7 @@
 
 ---
 
-## 🌐 Onde me encontrar
+## 🌐My Contributions
 
 <p align="center">
   <a href="https://www.linkedin.com/in/seu-usuario" target="_blank">
