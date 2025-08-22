@@ -46,7 +46,7 @@
 ## 🌐My Contributions
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=caioarchive&theme=dracula&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=caioarchive&theme=dark&hide_border=true" />
 </div>
 
 
