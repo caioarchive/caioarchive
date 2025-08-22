@@ -20,29 +20,27 @@
 
 ## 🛠️ Technologies and Tools I Use
 
-### 🖥️ **Desenvolvimento Front-End**
-<p align="center">
-  <img alt="HTML" src="https://skillicons.dev/icons?i=html" width="60" height="60"/>
-  <img alt="CSS" src="https://skillicons.dev/icons?i=css" width="60" height="60"/>
-  <img alt="JavaScript" src="https://skillicons.dev/icons?i=js" width="60" height="60"/>
-  <img alt="React" src="https://skillicons.dev/icons?i=react" width="60" height="60"/>
-</p>
+#### Markup Languages and Stylesheets
 
-### 🔙 **Back-End e Banco de Dados**
-<p align="center">
-  <img alt="Node.js" src="https://skillicons.dev/icons?i=nodejs" width="60" height="60"/>
-  <img alt="MySQL" src="https://skillicons.dev/icons?i=mysql" width="60" height="60"/>
-  <img alt="Supabase" src="https://skillicons.dev/icons?i=supabase" width="60" height="60"/>
-</p>
+![Markdown](https://img.shields.io/badge/Markdown-000?style=for-the-badge&logo=markdown)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### 🛠️ **Ferramentas de Desenvolvimento**
-<p align="center">
-  <img alt="Git" src="https://skillicons.dev/icons?i=git" width="60" height="60"/>
-  <img alt="GitHub" src="https://skillicons.dev/icons?i=github" width="60" height="60"/>
-  <img alt="Vercel" src="https://skillicons.dev/icons?i=vercel" width="60" height="60"/>
-  <img alt="Vercel" src="https://skillicons.dev/icons?i=linux" width="60" height="60"/>
+#### Programming Languages
 
-</p>
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![GameMaker Studio](https://img.shields.io/badge/GameMakerStudio-007ACC?style=for-the-badge&logo=gamemaker&logoColor=white)
+
+#### Libraries and Frameworks
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Express](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+
+#### Databases
+
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-000?style=for-the-badge&logo=sqlite&logoColor=07405E)
+![Supabase](https://img.shields.io/badge/SupaBase-000?style=for-the-badge&logo=supabase&logoColor=green)
 
 ---
 
