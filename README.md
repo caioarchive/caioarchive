@@ -1,13 +1,3 @@
-<div align="center">
-  
-  <h1>🖥️ Estágiario de T.I | ✅ Desenvolvedor Web em Crescimento</h1>
-
-  <p align="center">
-    <i>Em busca de desafios reais, com paixão por criar e aprender a cada linha de código.</i>
-  </p>
-</div>
-
----
 
 ## 🧑‍🎓 About Me
 
