@@ -1,39 +1,74 @@
-<table>
-  <hr>
-  <div align="left" style="display: inline_block">
- 👨🏽‍💻 - Atualmente sou estagiario. Suporte Tecnologia da Informação <br>
- 💻 - Internet Computer Technician (3/3) - Serviço Nacional de Aprendizagem Industrial, Senai Alagoas
+<h1 align="center">👨‍💻 Estudante de TI | 🚀 Futuro Desenvolvedor Web</h1>
 
-  </div>
-  <br>
-<h3>Stats GitHub</h3>
+<p align="center">
+  <i>Em constante aprendizado, pronto para o primeiro desafio profissional!</i>
+</p>
 
+---
 
-[![Most Used Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=caioarchive&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=FF00F6&hide=html,css&border_radius=3&border_color=561760&count_private=true&theme=dark)](https://github.com/caioarchive/github-readme-stats)
-<br>
- 
- 
+## 🧑‍🎓 Sobre mim
 
-<br>
-<hr>
+- 🎓 Estudante de <strong>Tecnologia da Informação</strong> no <strong>Sesi/Senai</strong>
+- 🤖 Ex-competidor de <strong>Robótica</strong>
+- 💻 Desenvolvendo projetos com <strong>JavaScript, React, Node.js, Java, MySQL</strong>
+- 🔍 Em busca da <strong>primeira oportunidade profissional</strong> em desenvolvimento web
 
-  <div align="center" style="display: inline_block">
-    <img align="center" alt="HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" alt="CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" alt="Figma" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
-    <img align="center" alt="JS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" alt="vscode" height="40" width="40" src="https://img.icons8.com/?size=100&id=0OQR1FYCuA9f&format=png&color=000000">
-    <img align="center" alt="Git" height="40" width="40" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png"> 
-    <img align="center" alt="Git" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> 
-   <br>
-  <hr>
+---
 
+## 📊 Estatísticas do GitHub
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=caioarchive&show_icons=true&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caioarchive&layout=compact&theme=radical"/>
 </div>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/caioarchive/caioarchive/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/caioarchive/caioarchive/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/caioarchive/caioarchive/output/github-contribution-grid-snake.svg">
-</picture>
-<hr>
+---
 
+## 🛠️ Tecnologias que utilizo
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="40" />
+</p>
+
+---
+
+## 🌐 Onde me encontrar
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/seu-usuario" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/caioarchive" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/caioarchive" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+<!--   <a href="https://portfolio-cardoso.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a> -->
+</p>
+
+---
+
+## 📈 Minhas Contribuições
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=caioarchive&theme=radical&hide_border=false" />
+</p>
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=caioarchive&theme=dracula" />
+</p>
+
+---
+
+<h3 align="center">💡 Sempre evoluindo e aprendendo novas tecnologias!</h3>
