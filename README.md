@@ -4,12 +4,10 @@
 - 🎓 Internet Computer Technician (3/3) - <strong>Serviço Nacional de Aprendizagem Industrial, Senai Alagoas</strong>
 - 💻 Estagiário de T.I no <strong>Comercial Mascarenhas</strong> - Foco em inovação e soluções
 - 🔧 Experiência com tecnologias como <strong>JavaScript, React, Node.js, MySQL, Supabase</strong>
-- 🌟 Motivado a criar soluções eficientes no mundo digital, sempre com foco no aprendizado contínuo.
 
 ---
 
 ## 📊 GitHub Statistics
-
 
 <div align="center">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=caioarchive&show_icons=true&hide_title=true&theme=dark&hide_border=true" />
