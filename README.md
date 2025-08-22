@@ -23,9 +23,6 @@
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=caioarchive&show_icons=true&hide_title=true&theme=dracula&hide_border=true" />
   <img height="180em" width="350em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caioarchive&layout=compact&theme=dracula&hide_border=true&hide=html,css,typescript,objective-j"/>
-
-<!--  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caioarchive&layout=compact&theme=dracula&hide_border=true&hide=html,css,typescript,objective-j"/> -->
-
 </div>
 
 ---
@@ -34,25 +31,26 @@
 
 ### 🖥️ **Desenvolvimento Front-End**
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" />
+  <img alt="HTML" src="https://skillicons.dev/icons?i=html" width="60" height="60"/>
+  <img alt="CSS" src="https://skillicons.dev/icons?i=css" width="60" height="60"/>
+  <img alt="JavaScript" src="https://skillicons.dev/icons?i=js" width="60" height="60"/>
+  <img alt="React" src="https://skillicons.dev/icons?i=react" width="60" height="60"/>
 </p>
 
 ### 🔙 **Back-End e Banco de Dados**
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" />
+  <img alt="Node.js" src="https://skillicons.dev/icons?i=nodejs" width="60" height="60"/>
+  <img alt="MySQL" src="https://skillicons.dev/icons?i=mysql" width="60" height="60"/>
+  <img alt="Supabase" src="https://skillicons.dev/icons?i=supabase" width="60" height="60"/>
 </p>
 
 ### 🛠️ **Ferramentas de Desenvolvimento**
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="50" />
-  <img src="https://lovable.dev/img/logo/lovable-icon-bg-light.png" width="50" />
+  <img alt="Git" src="https://skillicons.dev/icons?i=git" width="60" height="60"/>
+  <img alt="GitHub" src="https://skillicons.dev/icons?i=github" width="60" height="60"/>
+  <img alt="Vercel" src="https://skillicons.dev/icons?i=vercel" width="60" height="60"/>
+  <img alt="Vercel" src="https://skillicons.dev/icons?i=linux" width="60" height="60"/>
+
 </p>
 
 ---
@@ -62,6 +60,7 @@
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=caioarchive&theme=dracula&hide_border=true" />
 </div>
+
 
 ---
 
