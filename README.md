@@ -22,8 +22,8 @@
 
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=caioarchive&show_icons=true&hide_title=true&theme=dracula&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caioarchive&layout=compact&theme=dracula&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=caioarchive&show_icons=true&hide_title=true&theme=dark&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caioarchive&layout=compact&theme=dark&hide_border=true&hide=html"/>
 
 </div>
 ---
