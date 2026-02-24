@@ -2,7 +2,7 @@
 ## 🧑‍🎓 About Me
 
 - 🎓 Internet Computer Technician (3/3) - <strong>Serviço Nacional de Aprendizagem Industrial, Senai Alagoas</strong>
-- 💻 Estagiário de T.I no <strong>Comercial Mascarenhas</strong> - Foco em inovação e soluções
+- 💻 Suporte de TI <strong>Comercial Mascarenhas</strong> - Foco em soluções
 - 🔧 Experiência com tecnologias como <strong>JavaScript, React, Node.js, MySQL, Supabase</strong>
 
 ---
