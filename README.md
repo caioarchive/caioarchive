@@ -27,8 +27,7 @@
 #### Programming Languages
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![GameMaker Studio](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-
+![NodeJS](https://img.shields.io/badge/nodejs-F7DF1E?style=for-the-badge&logo=nodejs&logoColor=black)
 #### Libraries and Frameworks
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
