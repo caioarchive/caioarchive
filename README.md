@@ -2,7 +2,7 @@
 - 📚 Graduando em Engenharia de Software - <strong>UNINTER</strong>
 - 🎓 Técnico em Informática para a Internet (3/3) - <strong>Serviço Nacional de Aprendizagem Industrial, SENAI Alagoas</strong>
 - 💻 Assistente de TI na <strong>Comercial Mascarenhas</strong> - Foco em soluções
-- 🔧 Experiência com tecnologias como <strong>JavaScript, React, Node.js, MySQL e Supabase</strong>
+- 🔧 Experiência com tecnologias como <strong>JavaScript, React, Node.js, Express, Cypress, Jest e MySQL</strong>
 
 ---
 
