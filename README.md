@@ -1,59 +1,50 @@
-
-## 🧑‍🎓 About Me
-
-- 🎓 Internet Computer Technician (3/3) - <strong>Serviço Nacional de Aprendizagem Industrial, Senai Alagoas</strong>
-- 💻 Suporte de TI <strong>Comercial Mascarenhas</strong> - Foco em soluções
-- 🔧 Experiência com tecnologias como <strong>JavaScript, React, Node.js, MySQL, Supabase</strong>
+## 🧑‍🎓 Sobre Mim
+- 🎓 Técnico em Informática (3/3) - <strong>Serviço Nacional de Aprendizagem Industrial, SENAI Alagoas</strong>
+- 📚 Graduando em Engenharia de Software - <strong>UNINTER</strong>
+- 💻 Assistente de TI na <strong>Comercial Mascarenhas</strong> - Foco em soluções
+- 🔧 Experiência com tecnologias como <strong>JavaScript, React, Node.js, MySQL e Supabase</strong>
 
 ---
 
-## 📊 GitHub Statistics
-
+## 📊 Estatísticas do GitHub
 <div align="center">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=caioarchive&show_icons=true&hide_title=true&theme=dark&hide_border=true" />
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caioarchive&layout=compact&theme=dark&hide_border=true&hide=html,typescript,objective-j,css"/>
-
 </div>
+
 ---
 
-## 🛠️ Technologies and Tools I Use
-
-#### Markup Languages and Stylesheets
-
+## 🛠️ Tecnologias e Ferramentas que Utilizo
+#### Linguagens de Marcação e Folhas de Estilo
 ![Markdown](https://img.shields.io/badge/Markdown-000?style=for-the-badge&logo=markdown)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-#### Programming Languages
-
+#### Linguagens de Programação
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![NodeJS](https://img.shields.io/badge/nodejs-F7DF1E?style=for-the-badge&logo=nodejs&logoColor=black)
-#### Libraries and Frameworks
+![NodeJS](https://img.shields.io/badge/Node.js-F7DF1E?style=for-the-badge&logo=nodedotjs&logoColor=black)
 
+#### Bibliotecas e Frameworks
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Express](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![Cypress](https://img.shields.io/badge/cypress-20232A?style=for-the-badge&logo=cypress&logoColor=61DAFB)
-![Jest](https://img.shields.io/badge/Jest.js-20232A?style=for-the-badge&logo=jest&logoColor=c21325)
+![Express](https://img.shields.io/badge/Express.js-404d59?style=for-the-badge&logo=express&logoColor=61DAFB)
+![Cypress](https://img.shields.io/badge/Cypress-20232A?style=for-the-badge&logo=cypress&logoColor=61DAFB)
+![Jest](https://img.shields.io/badge/Jest-20232A?style=for-the-badge&logo=jest&logoColor=c21325)
 
-#### Databases
-
+#### Bancos de Dados
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-000?style=for-the-badge&logo=sqlite&logoColor=07405E)
-![Supabase](https://img.shields.io/badge/SupaBase-000?style=for-the-badge&logo=supabase&logoColor=green)
+![Supabase](https://img.shields.io/badge/Supabase-000?style=for-the-badge&logo=supabase&logoColor=green)
 
 ---
 
-## 🌐My Contributions
-
+## 🌐 Minhas Contribuições
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=caioarchive&theme=dark&hide_border=true" />
 </div>
 
-
 ---
 
-## Links;
-
+## 🔗 Links
 <p align="center">
   <a href="https://www.linkedin.com/in/seu-usuario" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -65,5 +56,3 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 </p>
-
----
